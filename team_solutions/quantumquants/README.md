@@ -3,3 +3,9 @@ Team Quantum Quants' solution to the 2024 ETH Quantum Hackathon Moody's x QuEra 
 1. Theory theory.md
 2. Programming programming.md
 3. Business business.md
+
+## Teammates
+1. Petr Ivashkov
+2. Francesco Ruscio
+3. Grecia Castelazo
+4. Alexander Jurgens
